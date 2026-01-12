@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Screenshot Viewer</string>
+    <string name="screenshot_thumbnail">Screenshot thumbnail</string>
+</resources>
